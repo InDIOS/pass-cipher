@@ -1,7 +1,7 @@
 {
 	"name": "pass-cipher",
 	"version": "0.0.1",
-	"description": "A simple module to cipher passwords.",
+	"description": "A tiny, zero dependencies tool that take a text and generate a hash. Usefull when you work with databases and don't want to store raw passwords.",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
